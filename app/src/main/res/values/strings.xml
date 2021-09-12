@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTStream</string>
+    <string name="descrip">En “Loki”, de Marvel Studios, el volátil villano Loki (Tom Hiddleston) retoma su papel como el Dios de las Mentiras en una nueva serie que transcurre después de los eventos de “Avengers: Endgame”. Kate Herron dirige y Michael Waldron es el guionista principal.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

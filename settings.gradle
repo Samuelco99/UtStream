@@ -1,0 +1,2 @@
+rootProject.name = "UTStream"
+include ':app'
